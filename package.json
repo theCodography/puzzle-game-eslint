@@ -1,0 +1,25 @@
+{
+  "name": "puzzlegame",
+  "version": "1.0.0",
+  "description": "html5-resolv-the-puzzle\r =======================",
+  "main": "resolv-the-puzzle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:fix": "eslint --fix --ext .js,.jsx ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theCodography/puzzle-game-eslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theCodography/puzzle-game-eslint/issues"
+  },
+  "homepage": "https://github.com/theCodography/puzzle-game-eslint#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
